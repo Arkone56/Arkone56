@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arkone56
-- 👀 I’m interested in Node-red, NodeJS Python
+- 👀 I’m interested in Node-red, NodeJS, Python
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
